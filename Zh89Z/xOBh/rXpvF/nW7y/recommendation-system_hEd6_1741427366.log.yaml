@@ -12,7 +12,6 @@ repos:
         hooks:
         - id: flake8
       - repo: https://github.com/pycqa/pylint
-        rev: v2.17.4
         hooks:
         - id: pylint
       - repo: https://github.com/codespell-project/codespell
