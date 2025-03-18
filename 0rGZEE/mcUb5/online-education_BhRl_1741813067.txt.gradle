@@ -19,7 +19,6 @@ buildscript {
     }
 }
 
-allprojects {
     repositories {
         flatDir {
             dirs project(':app').file('libs')
